@@ -1,3 +1,12 @@
+import  math
+num2 = math.sqrt(34)
+print(num2)
+
+num3 = math.ceil(7.8)
+num4 = math.floor(7.8)
+
+print(num4)
+print(num4)
 #ejemplo para colcular el area del triangulo
 
 #variables de entrada
@@ -44,3 +53,16 @@ mostrarClientes(nombre= "tobias", apellido = "Jimenez")
 
 def mifuncion():
     pass
+
+#funciones integradas
+x = min(5,10,25)
+y = max(5,10,25)
+
+print(x)
+print(y)
+
+
+num1 = pow(7,4)
+print(num1)
+
+
